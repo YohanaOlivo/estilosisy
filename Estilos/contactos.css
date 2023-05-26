@@ -10,7 +10,7 @@ p {
   font-size: large; margin-top: 5%;
 }
 
-.topnav a {
+.topnav a { 
   float: left;
   color: #f476c7;
   padding: 14px 16px;
